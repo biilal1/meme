@@ -1,1 +1,1 @@
-worker: python3 -m zelz
+web: bash start.sh
