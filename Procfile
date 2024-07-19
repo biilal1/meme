@@ -1,1 +1,1 @@
-worker: python3 -m SedUb
+worker: python3 -m zelz
